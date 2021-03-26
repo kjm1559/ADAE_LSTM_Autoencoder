@@ -1,5 +1,7 @@
 [keras] Anomaly Detection with Adversarial Dual LSTM Autoencoders
 ===
+Tensorflow implementation is provided as the following link.  
+https://github.com/YeongHyeon/ADAE-TF
 ## Architecture
 ### Objective functions  
 L1 -> L2(for more sharpness)
